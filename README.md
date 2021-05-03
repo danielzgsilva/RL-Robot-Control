@@ -19,7 +19,7 @@ The `run_experiments` script trains each of these algorithms on various Gym envi
 To train a single algorithm:   
 `python -m baselines.run --alg=ddpg --env=Reacher-v2 --num_timesteps=10e6 --save_path=/path/for/weights --log_path=/path/to/log/rewards`
 
-The `learning_plots.ipynb` notebook visalizes the reward over time for each of our experiments
-The `evaluation.ipynb` notebook contains evaluation code and results for each experiment. 
-We calculate the average reward returned from the top 20 episodes of training as well as the first episode for which the mean reward over the N<sup></sup>th to the (N+10)<sup>th</sup> episodes crosses a certain threshold.
+The `learning_plots.ipynb` notebook visualizes the reward over time for each of our experiments
+The `evaluation.ipynb` notebook contains evaluation code and results for each experiment
+We calculate the average reward returned from the top 20 episodes of training as well as the first episode for which the mean reward over the N<sup></sup>th to the (N+10)<sup>th</sup> episodes crosses a certain threshold
 

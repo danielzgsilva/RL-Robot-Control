@@ -1,5 +1,5 @@
 # RL-Robot-Control
-Implementations of popular reinforcement learning algorithms evaluated on continuous control tasks from OpenAI GYM
+Implementations of popular reinforcement learning algorithms evaluated on continuous control tasks from OpenAI's Gym
 
 We include the following algorithms 
 

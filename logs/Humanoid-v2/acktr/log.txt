@@ -1,0 +1,56 @@
+Logging to /home/danielzgsilva/Documents/robotics_project/logs/Humanoid-v2/acktr
+---------------------------------
+| eplenmean          | 21.2     |
+| eprewmean          | 104      |
+| explained_variance | -0.448   |
+| fps                | 333      |
+| nupdates           | 1        |
+| policy_entropy     | 24.1     |
+| policy_loss        | 40.9     |
+| total_timesteps    | 2.5e+03  |
+| value_loss         | 4.63     |
+---------------------------------
+---------------------------------
+| eplenmean          | 61.4     |
+| eprewmean          | 316      |
+| explained_variance | 0.758    |
+| fps                | 397      |
+| nupdates           | 100      |
+| policy_entropy     | 24.8     |
+| policy_loss        | 0.783    |
+| total_timesteps    | 2.5e+05  |
+| value_loss         | 0.271    |
+---------------------------------
+---------------------------------
+| eplenmean          | 68.5     |
+| eprewmean          | 352      |
+| explained_variance | 0.816    |
+| fps                | 401      |
+| nupdates           | 200      |
+| policy_entropy     | 25.2     |
+| policy_loss        | -1.83    |
+| total_timesteps    | 5e+05    |
+| value_loss         | 0.201    |
+---------------------------------
+---------------------------------
+| eplenmean          | 78.9     |
+| eprewmean          | 400      |
+| explained_variance | 0.86     |
+| fps                | 400      |
+| nupdates           | 300      |
+| policy_entropy     | 25.5     |
+| policy_loss        | 0.71     |
+| total_timesteps    | 7.5e+05  |
+| value_loss         | 0.152    |
+---------------------------------
+---------------------------------
+| eplenmean          | 83.5     |
+| eprewmean          | 421      |
+| explained_variance | 0.776    |
+| fps                | 403      |
+| nupdates           | 400      |
+| policy_entropy     | 25.7     |
+| policy_loss        | 1.37     |
+| total_timesteps    | 1e+06    |
+| value_loss         | 0.312    |
+---------------------------------

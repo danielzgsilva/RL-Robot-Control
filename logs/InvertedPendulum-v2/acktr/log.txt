@@ -1,0 +1,56 @@
+Logging to /home/danielzgsilva/Documents/robotics_project/logs/InvertedPendulum-v2/acktr
+---------------------------------
+| eplenmean          | 7.94     |
+| eprewmean          | 7.94     |
+| explained_variance | -0.0729  |
+| fps                | 414      |
+| nupdates           | 1        |
+| policy_entropy     | 1.42     |
+| policy_loss        | 1.89     |
+| total_timesteps    | 2.5e+03  |
+| value_loss         | 3.15     |
+---------------------------------
+---------------------------------
+| eplenmean          | 94.9     |
+| eprewmean          | 94.9     |
+| explained_variance | 0.8      |
+| fps                | 515      |
+| nupdates           | 100      |
+| policy_entropy     | 0.963    |
+| policy_loss        | -0.765   |
+| total_timesteps    | 2.5e+05  |
+| value_loss         | 0.764    |
+---------------------------------
+---------------------------------
+| eplenmean          | 104      |
+| eprewmean          | 104      |
+| explained_variance | 0.936    |
+| fps                | 519      |
+| nupdates           | 200      |
+| policy_entropy     | 0.984    |
+| policy_loss        | 0.0638   |
+| total_timesteps    | 5e+05    |
+| value_loss         | 0.0895   |
+---------------------------------
+---------------------------------
+| eplenmean          | 145      |
+| eprewmean          | 145      |
+| explained_variance | 0.827    |
+| fps                | 521      |
+| nupdates           | 300      |
+| policy_entropy     | 1        |
+| policy_loss        | -0.555   |
+| total_timesteps    | 7.5e+05  |
+| value_loss         | 0.518    |
+---------------------------------
+---------------------------------
+| eplenmean          | 230      |
+| eprewmean          | 230      |
+| explained_variance | 0.966    |
+| fps                | 522      |
+| nupdates           | 400      |
+| policy_entropy     | 1.01     |
+| policy_loss        | -0.0601  |
+| total_timesteps    | 1e+06    |
+| value_loss         | 0.0468   |
+---------------------------------

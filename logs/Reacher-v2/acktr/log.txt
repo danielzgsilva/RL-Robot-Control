@@ -1,0 +1,56 @@
+Logging to /home/danielzgsilva/Documents/robotics_project/logs/Reacher-v2/acktr
+---------------------------------
+| eplenmean          | 50       |
+| eprewmean          | -60.8    |
+| explained_variance | -0.149   |
+| fps                | 413      |
+| nupdates           | 1        |
+| policy_entropy     | 2.84     |
+| policy_loss        | -5.57    |
+| total_timesteps    | 2.5e+03  |
+| value_loss         | 5.23     |
+---------------------------------
+---------------------------------
+| eplenmean          | 50       |
+| eprewmean          | -55.9    |
+| explained_variance | 0.589    |
+| fps                | 500      |
+| nupdates           | 100      |
+| policy_entropy     | 2.57     |
+| policy_loss        | 0.074    |
+| total_timesteps    | 2.5e+05  |
+| value_loss         | 0.402    |
+---------------------------------
+---------------------------------
+| eplenmean          | 50       |
+| eprewmean          | -52.7    |
+| explained_variance | 0.533    |
+| fps                | 504      |
+| nupdates           | 200      |
+| policy_entropy     | 2.44     |
+| policy_loss        | -0.19    |
+| total_timesteps    | 5e+05    |
+| value_loss         | 0.434    |
+---------------------------------
+---------------------------------
+| eplenmean          | 50       |
+| eprewmean          | -49.3    |
+| explained_variance | 0.609    |
+| fps                | 505      |
+| nupdates           | 300      |
+| policy_entropy     | 2.3      |
+| policy_loss        | -0.0547  |
+| total_timesteps    | 7.5e+05  |
+| value_loss         | 0.326    |
+---------------------------------
+---------------------------------
+| eplenmean          | 50       |
+| eprewmean          | -48.7    |
+| explained_variance | 0.606    |
+| fps                | 505      |
+| nupdates           | 400      |
+| policy_entropy     | 2.22     |
+| policy_loss        | -0.204   |
+| total_timesteps    | 1e+06    |
+| value_loss         | 0.345    |
+---------------------------------

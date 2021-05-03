@@ -1,0 +1,56 @@
+Logging to /home/danielzgsilva/Documents/robotics_project/logs/HalfCheetah-v2/acktr
+---------------------------------
+| eplenmean          | 1e+03    |
+| eprewmean          | -340     |
+| explained_variance | -0.208   |
+| fps                | 409      |
+| nupdates           | 1        |
+| policy_entropy     | 8.51     |
+| policy_loss        | -22.5    |
+| total_timesteps    | 2.5e+03  |
+| value_loss         | 8.55     |
+---------------------------------
+---------------------------------
+| eplenmean          | 1e+03    |
+| eprewmean          | -329     |
+| explained_variance | 0.135    |
+| fps                | 499      |
+| nupdates           | 100      |
+| policy_entropy     | 8.68     |
+| policy_loss        | -0.252   |
+| total_timesteps    | 2.5e+05  |
+| value_loss         | 0.349    |
+---------------------------------
+---------------------------------
+| eplenmean          | 1e+03    |
+| eprewmean          | -298     |
+| explained_variance | 0.0271   |
+| fps                | 502      |
+| nupdates           | 200      |
+| policy_entropy     | 8.78     |
+| policy_loss        | 1.29     |
+| total_timesteps    | 5e+05    |
+| value_loss         | 0.284    |
+---------------------------------
+---------------------------------
+| eplenmean          | 1e+03    |
+| eprewmean          | -231     |
+| explained_variance | 0.145    |
+| fps                | 503      |
+| nupdates           | 300      |
+| policy_entropy     | 8.89     |
+| policy_loss        | -0.211   |
+| total_timesteps    | 7.5e+05  |
+| value_loss         | 0.559    |
+---------------------------------
+---------------------------------
+| eplenmean          | 1e+03    |
+| eprewmean          | -94.5    |
+| explained_variance | -0.126   |
+| fps                | 503      |
+| nupdates           | 400      |
+| policy_entropy     | 8.94     |
+| policy_loss        | 1.76     |
+| total_timesteps    | 1e+06    |
+| value_loss         | 0.261    |
+---------------------------------

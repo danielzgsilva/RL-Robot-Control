@@ -1,0 +1,56 @@
+Logging to /home/danielzgsilva/Documents/robotics_project/logs/Walker2d-v2/acktr
+---------------------------------
+| eplenmean          | 18.6     |
+| eprewmean          | -0.72    |
+| explained_variance | -0.13    |
+| fps                | 395      |
+| nupdates           | 1        |
+| policy_entropy     | 8.51     |
+| policy_loss        | -4.76    |
+| total_timesteps    | 2.5e+03  |
+| value_loss         | 2.03     |
+---------------------------------
+---------------------------------
+| eplenmean          | 170      |
+| eprewmean          | 270      |
+| explained_variance | 0.89     |
+| fps                | 463      |
+| nupdates           | 100      |
+| policy_entropy     | 8.22     |
+| policy_loss        | 1.07     |
+| total_timesteps    | 2.5e+05  |
+| value_loss         | 0.0738   |
+---------------------------------
+---------------------------------
+| eplenmean          | 156      |
+| eprewmean          | 276      |
+| explained_variance | 0.871    |
+| fps                | 466      |
+| nupdates           | 200      |
+| policy_entropy     | 8.48     |
+| policy_loss        | -0.208   |
+| total_timesteps    | 5e+05    |
+| value_loss         | 0.0978   |
+---------------------------------
+---------------------------------
+| eplenmean          | 200      |
+| eprewmean          | 432      |
+| explained_variance | 0.818    |
+| fps                | 467      |
+| nupdates           | 300      |
+| policy_entropy     | 8.64     |
+| policy_loss        | 0.723    |
+| total_timesteps    | 7.5e+05  |
+| value_loss         | 0.186    |
+---------------------------------
+---------------------------------
+| eplenmean          | 225      |
+| eprewmean          | 499      |
+| explained_variance | 0.852    |
+| fps                | 469      |
+| nupdates           | 400      |
+| policy_entropy     | 8.71     |
+| policy_loss        | -1.35    |
+| total_timesteps    | 1e+06    |
+| value_loss         | 0.262    |
+---------------------------------

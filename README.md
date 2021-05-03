@@ -16,7 +16,7 @@ The `run_experiments` script trains each of these algorithms on various Gym envi
 -   HalfCheetah-v2  
 -   InvertedDoublePendulum-v2 
 
-To train a single algorithm run:
+To train a single algorithm:   
 `python -m baselines.run --alg=ddpg --env=Reacher-v2 --num_timesteps=1000000 --save_path=/path/to/save/weights --log_path=/path/to/log/rewards`
 
 The `learning_plots.ipynb` notebook visalizes the reward over time for each of our experiments

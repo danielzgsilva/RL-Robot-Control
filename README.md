@@ -17,7 +17,7 @@ The `run_experiments` script trains each of these algorithms on various Gym envi
 -   InvertedDoublePendulum-v2 
 
 To train a single algorithm:   
-`python -m baselines.run --alg=ddpg --env=Reacher-v2 --num_timesteps=10e6 --save_path=/path/to/weights --log_path=/path/to/logs`
+`python -m baselines.run --alg=ddpg --env=Reacher-v2 --num_timesteps=10e6 --save_path=/save/weights/ --log_path=/save/rewards/`
 
 The `learning_plots.ipynb` notebook visalizes the reward over time for each of our experiments
 The `evaluation.ipynb` notebook contains evaluation code and results for each experiment. 

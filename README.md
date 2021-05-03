@@ -21,5 +21,5 @@ To train a single algorithm:
 
 The `learning_plots.ipynb` notebook visualizes the reward over time for each of our experiments   
 The `evaluation.ipynb` notebook contains evaluation code and results for each experiment   
-We calculate the average reward returned from the top 20 episodes of training as well as the first episode for which the mean reward over the N<sup></sup>th to the (N+10)<sup>th</sup> episodes crosses a certain threshold   
+We calculate the average reward returned from the top 20 episodes of training as well as the first episode for which the mean reward over the N<sup>th</sup> to the (N+10)<sup>th</sup> episodes crosses a certain threshold   
 
